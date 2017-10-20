@@ -1,3 +1,3 @@
 # hello-world 
 
-My name is Sam and I'm to learn. 
+My name is Sam and I'm here to learn. 
